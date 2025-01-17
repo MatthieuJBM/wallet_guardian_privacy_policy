@@ -25,11 +25,11 @@ Third-Party Libraries: We use open-source packages to enhance app functionality.
 
 The app utilizes the following third-party libraries, each governed by its respective open-source license:
 
-Equatable, Logger, GetX, dartz, fl_chart, file_picker, flutter_launcher_icons, flutter_native_splash, change_app_package_name: ^1.4.0 (MIT License)
+Equatable, Logger, GetX, dartz, fl_chart, file_picker, flutter_launcher_icons, flutter_native_splash, change_app_package_name, permission_handler (MIT License)
 
 Isar, isar_flutter_libs, isar_generator, google_fonts (Apache-2.0 License)
 
-path_provider, intl, json_serializable, json_annotation (BSD-3-Clause License)
+path_provider, intl, json_serializable, json_annotation, share_plus (BSD-3-Clause License)
 
 To the best of our knowledge, these libraries operate locally and do not send your data to external servers.
 
